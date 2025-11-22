@@ -1,14 +1,11 @@
 /* Google font */
-@import url('
-https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;500;600&display=swap
-');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;500;600&display=swap');
 
 body {
   margin: 0;
   font-family: "Inconsolata", monospace;
-  background: url("
-https://img.freepik.com/free-vector/background-abstract-pixel-rain_23-2148370436.jpg
-") no-repeat center/cover fixed;
+  background: url("https://img.freepik.com/free-vector/background-abstract-pixel-rain_23-2148370436.jpg")
+    no-repeat center/cover fixed;
   color: #111;
 }
 
@@ -55,7 +52,6 @@ iframe:hover {
 }
 
 /* ------------ DETAILS ------------ */
-
 details {
   background-color: rgba(255,255,255,0.9);
   width: 85%;
@@ -99,4 +95,4 @@ p {
 .nav-footer a:hover {
   background: black;
   color: white;
-} 
+}
